@@ -235,6 +235,9 @@
     }
 }
 @media (max-width:450px){
+    .frame{
+        height: 80%;
+    }
     /* *********home */
     .nav_bar ul{
         width: 300px;
